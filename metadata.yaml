@@ -1,0 +1,30 @@
+_repo: Around-the-World-on-a-Bicycle---Volume-II--13-From-Teheran-To-Yokohama_13749
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevens, Thomas
+    alias: Stevens, T. (Thomas)
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '1710'
+    url: http://www.gutenberg.org/2009/agents/1710
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Stevens_%28cyclist%29
+description: ''
+gutenberg_issued: '2004-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bicycle touring'
+- !lcc 'G'
+- !lcsh 'Voyages around the world'
+- !lcsh 'Stevens, Thomas, 1854-1935 -- Travel'
+title: "Around the World on a Bicycle - Volume II\r\nFrom Teheran To Yokohama"
+url: http://www.gutenberg.org/ebooks/13749
